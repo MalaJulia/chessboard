@@ -1,0 +1,29 @@
+.box {
+    text-align: center;
+    display: flex ;
+    justify-content: center;
+}
+.table {
+    position: relative;
+}
+.white {
+    width: 100px;
+    height: 100px;
+    background: antiquewhite;
+
+}
+.black {
+    width: 100px;
+    height: 100px;
+    background: saddlebrown;
+
+
+}
+.chessBlack{
+
+    width: 90px;
+    height: 90px;
+    border-radius: 50px;
+/*position: absolute;*/
+    background: black;
+}
